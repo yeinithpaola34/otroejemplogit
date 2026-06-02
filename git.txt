@@ -1,1 +1,2 @@
 esta es mi primer linea de texto 
+hola buen dia hoy trabaje en git
